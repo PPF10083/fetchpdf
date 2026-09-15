@@ -1,0 +1,3 @@
+interface:
+  display_name: "fetchpdf"
+  default_prompt: "使用 $fetchpdf 获取文献全文与补充材料"
